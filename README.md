@@ -20,8 +20,5 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkimasu&langs_count=8)](https://github.com/lkimasu/github-readme-stats)
  
- <br/>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkimasu&show_icons=true&theme=radical)
- 
+ <br/> 
  </div>
